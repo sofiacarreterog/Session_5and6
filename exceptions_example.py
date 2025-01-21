@@ -16,4 +16,4 @@ except: #all other types of exceptions !
 else: #in case no exceptions happened
     print("thanks for being a good sport and not trying to crash the app")
 finally: #this runs in the end, no matter what
-print("thanks for playing")
+    print("thanks for playing")
