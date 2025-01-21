@@ -1,5 +1,5 @@
 # Session 5&6
 ## Input 
-## Exceptions
+## Exceptionss
 ## IF
 ## WHILE 
